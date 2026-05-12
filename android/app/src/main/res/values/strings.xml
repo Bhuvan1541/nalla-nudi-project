@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Nalla-Nudi</string>
+    <string name="title_activity_main">Nalla-Nudi</string>
+    <string name="package_name">com.nallanudi.app</string>
+    <string name="custom_url_scheme">com.nallanudi.app</string>
+</resources>

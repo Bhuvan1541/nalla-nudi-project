@@ -1,11 +1,22 @@
-<div align="center">
+# Nalla-Nudi
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+A modern English-Kannada dictionary app designed for students to learn technical vocabulary with ease. Featuring pronunciation guides, daily word updates, and a progress-tracking quiz system.
 
-  <h1>Built with AI Studio</h2>
+## Key Features
+- **Smart Search**: Find technical terms quickly with Kannada meanings.
+- **Voice Pronunciation**: Listen to correct English pronunciations.
+- **Daily Word**: Learn something new every day with curated "Word of the Day".
+- **Progress Tracking**: Track your learning streak and unlock achievements.
+- **Interactive Quizzes**: Test your knowledge with subject-based quizzes.
+- **Offline First**: Works without a persistent internet connection for core features.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## Tech Stack
+- **Native Logic**: Kotlin, Jetpack Compose, Room Database
+- **Frontend**: React 19, TypeScript, Tailwind CSS
+- **Mobile**: Capacitor (Android/iOS)
+- **State Management**: React Hooks + WordViewModel 
+- **Animations**: Motion (framer-motion)
+- **Build Tool**: Vite & Gradle (8.x)
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
-
-</div>
+## Project Origin
+Developed as part of the Nalla-Nudi initiative to bridge the language gap in technical education.

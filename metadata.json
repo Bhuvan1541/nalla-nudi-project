@@ -1,0 +1,9 @@
+{
+  "name": "Nalla-Nudi (Kotlin)",
+  "description": "A high-performance English-Kannada technical dictionary. Built with a Kotlin-first Android core (Room + Compose) and a modern React mobile interface.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": []
+}
